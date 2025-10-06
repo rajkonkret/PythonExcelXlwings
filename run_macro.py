@@ -1,5 +1,5 @@
 import xlwings as xw, psutil
-
+# działa tylko na windows
 # Nowy plik Excela
 wb = xw.Book()
 
